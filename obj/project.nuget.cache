@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "jjfXRXpX1Irh3ltb6aUwoZ5eVRbRls+qN6Xt8VQON/NgB+tlckD2Jpwe99P75IV2doTvV8iQo5Sba5TJu3EiEA==",
+  "success": true,
+  "projectFilePath": "D:\\MIS-PROYECTOS\\Documentos_pdf\\Pro1_documentos\\Pro1_documentos\\Pro1_documentos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

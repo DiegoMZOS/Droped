@@ -1,0 +1,17 @@
+D:\MIS-PROYECTOS\Documentos_pdf\Pro1_documentos\Pro1_documentos\obj\Debug\net7.0-windows\Pro1_documentos.Form1.resources
+D:\MIS-PROYECTOS\Documentos_pdf\Pro1_documentos\Pro1_documentos\obj\Debug\net7.0-windows\Pro1_documentos.csproj.GenerateResource.cache
+D:\MIS-PROYECTOS\Documentos_pdf\Pro1_documentos\Pro1_documentos\obj\Debug\net7.0-windows\Pro1_documentos.GeneratedMSBuildEditorConfig.editorconfig
+D:\MIS-PROYECTOS\Documentos_pdf\Pro1_documentos\Pro1_documentos\obj\Debug\net7.0-windows\Pro1_documentos.AssemblyInfoInputs.cache
+D:\MIS-PROYECTOS\Documentos_pdf\Pro1_documentos\Pro1_documentos\obj\Debug\net7.0-windows\Pro1_documentos.AssemblyInfo.cs
+D:\MIS-PROYECTOS\Documentos_pdf\Pro1_documentos\Pro1_documentos\obj\Debug\net7.0-windows\Pro1_documentos.csproj.CoreCompileInputs.cache
+D:\MIS-PROYECTOS\Documentos_pdf\Pro1_documentos\Pro1_documentos\bin\Debug\net7.0-windows\Pro1_documentos.exe
+D:\MIS-PROYECTOS\Documentos_pdf\Pro1_documentos\Pro1_documentos\bin\Debug\net7.0-windows\Pro1_documentos.deps.json
+D:\MIS-PROYECTOS\Documentos_pdf\Pro1_documentos\Pro1_documentos\bin\Debug\net7.0-windows\Pro1_documentos.runtimeconfig.json
+D:\MIS-PROYECTOS\Documentos_pdf\Pro1_documentos\Pro1_documentos\bin\Debug\net7.0-windows\Pro1_documentos.dll
+D:\MIS-PROYECTOS\Documentos_pdf\Pro1_documentos\Pro1_documentos\bin\Debug\net7.0-windows\Pro1_documentos.pdb
+D:\MIS-PROYECTOS\Documentos_pdf\Pro1_documentos\Pro1_documentos\obj\Debug\net7.0-windows\Pro1_documentos.dll
+D:\MIS-PROYECTOS\Documentos_pdf\Pro1_documentos\Pro1_documentos\obj\Debug\net7.0-windows\refint\Pro1_documentos.dll
+D:\MIS-PROYECTOS\Documentos_pdf\Pro1_documentos\Pro1_documentos\obj\Debug\net7.0-windows\Pro1_documentos.pdb
+D:\MIS-PROYECTOS\Documentos_pdf\Pro1_documentos\Pro1_documentos\obj\Debug\net7.0-windows\Pro1_documentos.genruntimeconfig.cache
+D:\MIS-PROYECTOS\Documentos_pdf\Pro1_documentos\Pro1_documentos\obj\Debug\net7.0-windows\ref\Pro1_documentos.dll
+D:\MIS-PROYECTOS\Documentos_pdf\Pro1_documentos\Pro1_documentos\obj\Debug\net7.0-windows\Pro1_documentos.FormPlantillaMetadatos.resources
